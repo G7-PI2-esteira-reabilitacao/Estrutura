@@ -1,1 +1,1 @@
-# EAP Estrura
+# EAP Escopo Estrutura
